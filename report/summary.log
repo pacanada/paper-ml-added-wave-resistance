@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.3)  3 FEB 2021 20:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.3)  4 FEB 2021 16:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -66,7 +66,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
  (/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/Sections/Abstract.tex)
-Underfull \hbox (badness 3068) in paragraph at lines 25--25
+Underfull \hbox (badness 3068) in paragraph at lines 26--26
 []\OT1/cmr/bx/n/10 Comparison of NN-regressor on ex-
  []
 
@@ -84,7 +84,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  25i,7n,21p,247b,205s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.pdf (1 page, 71288 bytes).
+Output written on /Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.pdf (1 page, 71680 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream

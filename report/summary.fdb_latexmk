@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1612379331 "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.tex" "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.pdf" "summary" 1612379331
-  "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.aux" 1612379331 1377 ec06da5224f1f82988afb9dce22b8654 ""
-  "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.tex" 1612379330 877 9c1e40bd8349902bd3bba9537d25919e ""
+["pdflatex"] 1612453328 "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.tex" "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.pdf" "summary" 1612453328
+  "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.aux" 1612453328 1502 ed78f728ee74ff040f13922baa4ee71b ""
+  "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.tex" 1612453327 925 21d04c5fbfbde53f4ce43896e3c17592 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -31,11 +31,11 @@
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1612372165 2432473 e58c2829c4992883b7ca16aa4b568a29 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "Sections/Abstract.tex" 1612375828 19 4a73f522bd35913f1bb3c413c74cfebd ""
-  "summary.aux" 1612379331 1377 ec06da5224f1f82988afb9dce22b8654 "pdflatex"
-  "summary.tex" 1612379330 877 9c1e40bd8349902bd3bba9537d25919e ""
+  "summary.aux" 1612453328 1502 ed78f728ee74ff040f13922baa4ee71b "pdflatex"
+  "summary.tex" 1612453327 925 21d04c5fbfbde53f4ce43896e3c17592 ""
   (generated)
-  "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.log"
   "summary.pdf"
-  "summary.aux"
   "summary.log"
+  "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.log"
+  "summary.aux"
   "/Users/pablocanadapereira/Desktop/Projects/Paper/paper_boilerplate/report/summary.pdf"
